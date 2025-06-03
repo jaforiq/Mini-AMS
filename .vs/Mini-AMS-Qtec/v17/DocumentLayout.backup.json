@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Interview Assignment\\Mini-AMS-Qtec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22FB43AA-B6D8-4A6A-AF28-2B8529A1AC5A}|Mini-AMS\\Mini-AMS.csproj|e:\\interview assignment\\mini-ams-qtec\\mini-ams\\pages\\voucher\\journal.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22FB43AA-B6D8-4A6A-AF28-2B8529A1AC5A}|Mini-AMS\\Mini-AMS.csproj|solutionrelative:mini-ams\\pages\\voucher\\journal.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22FB43AA-B6D8-4A6A-AF28-2B8529A1AC5A}|Mini-AMS\\Mini-AMS.csproj|e:\\interview assignment\\mini-ams-qtec\\mini-ams\\pages\\voucher\\journal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22FB43AA-B6D8-4A6A-AF28-2B8529A1AC5A}|Mini-AMS\\Mini-AMS.csproj|solutionrelative:mini-ams\\pages\\voucher\\journal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22FB43AA-B6D8-4A6A-AF28-2B8529A1AC5A}|Mini-AMS\\Mini-AMS.csproj|e:\\interview assignment\\mini-ams-qtec\\mini-ams\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22FB43AA-B6D8-4A6A-AF28-2B8529A1AC5A}|Mini-AMS\\Mini-AMS.csproj|solutionrelative:mini-ams\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22FB43AA-B6D8-4A6A-AF28-2B8529A1AC5A}|Mini-AMS\\Mini-AMS.csproj|e:\\interview assignment\\mini-ams-qtec\\mini-ams\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22FB43AA-B6D8-4A6A-AF28-2B8529A1AC5A}|Mini-AMS\\Mini-AMS.csproj|solutionrelative:mini-ams\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22FB43AA-B6D8-4A6A-AF28-2B8529A1AC5A}|Mini-AMS\\Mini-AMS.csproj|e:\\interview assignment\\mini-ams-qtec\\mini-ams\\pages\\admin\\rolemanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22FB43AA-B6D8-4A6A-AF28-2B8529A1AC5A}|Mini-AMS\\Mini-AMS.csproj|solutionrelative:mini-ams\\pages\\admin\\rolemanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22FB43AA-B6D8-4A6A-AF28-2B8529A1AC5A}|Mini-AMS\\Mini-AMS.csproj|e:\\interview assignment\\mini-ams-qtec\\mini-ams\\models\\voucherheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22FB43AA-B6D8-4A6A-AF28-2B8529A1AC5A}|Mini-AMS\\Mini-AMS.csproj|solutionrelative:mini-ams\\models\\voucherheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22FB43AA-B6D8-4A6A-AF28-2B8529A1AC5A}|Mini-AMS\\Mini-AMS.csproj|e:\\interview assignment\\mini-ams-qtec\\mini-ams\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22FB43AA-B6D8-4A6A-AF28-2B8529A1AC5A}|Mini-AMS\\Mini-AMS.csproj|solutionrelative:mini-ams\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Journal.cshtml",
+              "DocumentMoniker": "E:\\Interview Assignment\\Mini-AMS-Qtec\\Mini-AMS\\Pages\\Voucher\\Journal.cshtml",
+              "RelativeDocumentMoniker": "Mini-AMS\\Pages\\Voucher\\Journal.cshtml",
+              "ToolTip": "E:\\Interview Assignment\\Mini-AMS-Qtec\\Mini-AMS\\Pages\\Voucher\\Journal.cshtml",
+              "RelativeToolTip": "Mini-AMS\\Pages\\Voucher\\Journal.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T04:38:57.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Journal.cshtml.cs",
+              "DocumentMoniker": "E:\\Interview Assignment\\Mini-AMS-Qtec\\Mini-AMS\\Pages\\Voucher\\Journal.cshtml.cs",
+              "RelativeDocumentMoniker": "Mini-AMS\\Pages\\Voucher\\Journal.cshtml.cs",
+              "ToolTip": "E:\\Interview Assignment\\Mini-AMS-Qtec\\Mini-AMS\\Pages\\Voucher\\Journal.cshtml.cs",
+              "RelativeToolTip": "Mini-AMS\\Pages\\Voucher\\Journal.cshtml.cs",
+              "ViewState": "AgIAAC4AAAAAMzMzMzMfwCwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T04:03:56.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoleManagement.cshtml",
+              "DocumentMoniker": "E:\\Interview Assignment\\Mini-AMS-Qtec\\Mini-AMS\\Pages\\Admin\\RoleManagement.cshtml",
+              "RelativeDocumentMoniker": "Mini-AMS\\Pages\\Admin\\RoleManagement.cshtml",
+              "ToolTip": "E:\\Interview Assignment\\Mini-AMS-Qtec\\Mini-AMS\\Pages\\Admin\\RoleManagement.cshtml",
+              "RelativeToolTip": "Mini-AMS\\Pages\\Admin\\RoleManagement.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T03:27:55.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Interview Assignment\\Mini-AMS-Qtec\\Mini-AMS\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Mini-AMS\\Pages\\Index.cshtml",
+              "ToolTip": "E:\\Interview Assignment\\Mini-AMS-Qtec\\Mini-AMS\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Mini-AMS\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T01:03:40.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Interview Assignment\\Mini-AMS-Qtec\\Mini-AMS\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Mini-AMS\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Interview Assignment\\Mini-AMS-Qtec\\Mini-AMS\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Mini-AMS\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAABgZmZmZmYkwB4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T07:23:09.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VoucherHeader.cs",
+              "DocumentMoniker": "E:\\Interview Assignment\\Mini-AMS-Qtec\\Mini-AMS\\Models\\VoucherHeader.cs",
+              "RelativeDocumentMoniker": "Mini-AMS\\Models\\VoucherHeader.cs",
+              "ToolTip": "E:\\Interview Assignment\\Mini-AMS-Qtec\\Mini-AMS\\Models\\VoucherHeader.cs",
+              "RelativeToolTip": "Mini-AMS\\Models\\VoucherHeader.cs",
+              "ViewState": "AgIAAAkAAACgmZmZmZktwA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T03:13:18.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Interview Assignment\\Mini-AMS-Qtec\\Mini-AMS\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Mini-AMS\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Interview Assignment\\Mini-AMS-Qtec\\Mini-AMS\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Mini-AMS\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA4AAAAwMzMzMzMzwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T06:33:39.715Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

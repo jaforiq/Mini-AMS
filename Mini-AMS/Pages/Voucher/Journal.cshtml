@@ -1,0 +1,48 @@
+@page
+@model Mini_AMS.Pages.Voucher.JournalModel
+@{
+    ViewData["Title"] = "Journal Voucher";
+}
+
+<h2>Journal Voucher</h2>
+<form method="post">
+    <div class="mb-3">
+        <label>Date</label>
+        <input asp-for="Input.Date" class="form-control" type="date" />
+    </div>
+    <div class="mb-3">
+        <label>Reference No.</label>
+        <input asp-for="Input.ReferenceNo" class="form-control" />
+    </div>
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Account</th>
+                <th>Debit</th>
+                <th>Credit</th>
+                <th>Narration</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.Input.Lines.Count; i++)
+            {
+                <tr>
+                    <td>
+                        <select asp-for="Input.Lines[@i].AccountId" class="form-select" asp-items="Model.AccountList"></select>
+                    </td>
+                    <td>
+                        <input asp-for="Input.Lines[@i].Debit" class="form-control" />
+                    </td>
+                    <td>
+                        <input asp-for="Input.Lines[@i].Credit" class="form-control" />
+                    </td>
+                    <td>
+                        <input asp-for="Input.Lines[@i].Narration" class="form-control" />
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <button type="submit" class="btn btn-primary">Save Voucher</button>
+</form>
